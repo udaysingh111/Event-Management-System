@@ -1,2 +1,2 @@
 # Event-Scheduler
-A event scheduler is a timetable for an event , program to held along with its details. In turn, event schedule management is the process of developing, maintaining, and communicating event schedules for time and resource planning. 
+The system serves as a timetable outlining the details of a planned event or program. Concurrently, event schedule management involves the creation, upkeep, and dissemination of event schedules to facilitate effective time and resource planning. 
